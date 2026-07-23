@@ -42,7 +42,6 @@ A fully serverless AWS application that converts reminder text into speech using
 9. Amazon SES sends an email containing the reminder message and MP3 link.
 10. User clicks the link and listens to the voice reminder.
 
-
 ## 💻 Tech Stack
 
 * Python
